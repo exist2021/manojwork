@@ -6,7 +6,7 @@ theme: "PaperMod"
 params:
     homeInfoParams:
         Title: Manoj Nayak's Desk 🖥️ 
-        Content: Tech, Strategy, Workflow & Systems
+        Content: Tech, Strategy, Workflows & Systems
 
     socialIcons: # optional
         - name: "github"
