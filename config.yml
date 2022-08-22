@@ -1,26 +1,26 @@
-baseURL: https://example.com/
+baseURL: https://manoj.work/
 languageCode: en-us
-title: Author Name
+title: Manoj Nayak
 theme: "PaperMod"
 
 params:
     homeInfoParams:
-        Title: Hello World 👋
-        Content: This is a sample hugo template
+        Title: Manoj Nayak's Desk 🖥️ 
+        Content: Tech, Strategy, Workflow & Systems
 
     socialIcons: # optional
         - name: "github"
-          url: "https://github.com/sawhney17"
-        - name: "youtube"
-          url: "https://www.youtube.com/channel/UCjMJeOCEAG2XFtd9JvZwomw"
+          url: "https://github.com/exist2021"
+        - name: "linkedin"
+          url: "https://www.linkedin.com/in/manojrnayak/"
         - name: "twitter"
-          url: "https://twitter.com/aryansawhney17"
+          url: "https://twitter.com/manojnayak"
         - name: "kofi" 
-          url: "https://buymeacoffee.com/sawhney17"
+          url: "https://www.buymeacoffee.com/Manoj"
         - name: "rss"
-          url: "https://aryansawhney.com/index.xml"
+          url: "https://manoj.work/index.xml"
     ShowReadingTime: true
-    author: "One Nice Person"
+    author: "Manoj Nayak"
 
 outputs:
     home:
