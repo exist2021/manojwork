@@ -13,7 +13,7 @@ I saw a [video](https://www.youtube.com/watch?v=n_yHZ_vKjno&index=6&list=PL5q_l
 
 > To sum up — The North Star is the most critical metric you should measure.
 
-![North Star](https://miro.medium.com/max/1400/1*8ywqkmxikvbax22xiimh9q.jpeg)
+![North Star](https://mataroa.blog/images/c7d7a869.jpeg)
 
 ## Various Metrics
 
