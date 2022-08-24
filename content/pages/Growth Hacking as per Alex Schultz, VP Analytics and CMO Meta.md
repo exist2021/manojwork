@@ -12,9 +12,9 @@ lastMod: 2022-08-24
 
   + He says before Facebook, companies were talking about the total number of users.
 
-  + Zuck focussed on [[MAU]] (Monthly Active Users)
+  + Zuck focussed on [MAU]({{< ref "MAU" >}}) (Monthly Active Users)
 
-  + He says [[MAU]] will vary and will be different as per the type of company. For example for an e-commerce company, a retention rate of says 30-40% is good, but for a social network it has to be above 80%/
+  + He says [MAU]({{< ref "MAU" >}}) will vary and will be different as per the type of company. For example for an e-commerce company, a retention rate of says 30-40% is good, but for a social network it has to be above 80%/
 
 ## Then He talks about Magic Moments after Signups
 
@@ -22,11 +22,11 @@ lastMod: 2022-08-24
 
 ## North Star Metric
 
-  + He says one of their most important metrics besides [[MAU]] was to get the user ten friends in 14 days.
+  + He says one of their most important metrics besides [MAU]({{< ref "MAU" >}}) was to get the user ten friends in 14 days.
 
   + Another important metric for them was to scale up Internationally as they were late to launch.
 
-> Well, that is a short summary. Watch the video below if you are into [[Growth Hacking]]
+> Well, that is a short summary. Watch the video below if you are into [Growth Hacking]({{< ref "Growth Hacking" >}})
 
 {{< youtube n_yHZ_vKjno >}}
 
