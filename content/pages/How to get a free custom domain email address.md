@@ -8,7 +8,7 @@ title: How to get a free custom domain email address
 categories:
 - Productivity
 date: 2022-08-22
-lastMod: 2022-08-22
+lastMod: 2022-08-23
 ---
 Are you paying for an email address? Are you a small business or a freelancer? Do you keep buying new domains and need emails for them? If your answer is YES, then you should read further.
 
@@ -16,7 +16,7 @@ Are you paying for an email address? Are you a small business or a freelancer? D
 
 Nowadays, emails are costing a lot more than they used to do. I remember they offered free emails when you purchased a domain in the early days. One of the earliest domains I have still had a "lifetime free" email from Godaddy. Also, I still have a free custom domain email id from Gsuite ( Now known as [Google Workspace](https://workspace.google.com/).
 
-Google has stopped the GSuite Legacy plan and [has made people pay for it](https://support.google.com/a/answer/60217?product_name=UnuFlow&visit_id=637967487199948467-450874955&rd=1&src=supportwidget0). However, they are giving a free option to people who are individuals. I opted for the free option for manojnayak.com.
+> Google has stopped the GSuite Legacy plan and [has made people pay for it](https://support.google.com/a/answer/60217?product_name=UnuFlow&visit_id=637967487199948467-450874955&rd=1&src=supportwidget0). However, they are giving a free option to people who are individuals. I opted for the free option for manojnayak.com.
 
 ![Screenshot 2022-08-22 at 12-36-26 PM](https://mataroa.blog/images/16f50369.png)
 
@@ -38,7 +38,7 @@ I had always heard about an alias but never had dug deep into what it means unti
 
 I feel so relieved that I am now just using one email interface to manage all my five email ids, and that is when all the emails are free. I Saved 600 Rs per month in subscription and a lot more in peace of mind which is priceless.
 
-## Resource
+## Guide
 
 [How to set up a Gmail custom domain for free | by Artur Piszek | medium](https://medium.com/@artpi/how-to-set-up-a-gmail-custom-domain-for-free-50fd73bc451d)
 

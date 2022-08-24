@@ -8,5 +8,3 @@ lastMod: 2022-08-23
 "No Code" is a movement where people with or without much of a technical backgrounds are building apps and softwares without using any code or with minimal coding.
 
 This enables, common folks to build applications without any programming knowledge, hence it democratises who can build softwares. Now all you need is an idea and resources to distribute the idea.
-
-here are some [[ notable people in no code ]] i know off! 
