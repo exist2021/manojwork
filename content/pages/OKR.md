@@ -14,3 +14,5 @@ lastMod: 2022-08-25
 via [Measure what Matters](http://play.google.com/books/reader?id=SIJpswEACAAJ)
 
 > Read the [Highlights for Measure What Matters]([https://readwise.io/bookreview/1066321](https://manojnayak.notion.site/Measure-What-Matters-167aaf1afba74aa4a1781ed03be657cd)
+
+
