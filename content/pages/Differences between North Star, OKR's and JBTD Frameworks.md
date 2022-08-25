@@ -19,7 +19,7 @@ As my knowledge graph increased on various frameworks, I came across other conce
 
 A “ [North Star]({{< ref "North Star" >}}) ” metric is that metric which is the most important lead measure you need to track as per the GOAL of your business. Unlike OKR, it is not quarterly but takes a longer-term view of things you need to do to achieve your objectives. Typically the North Star metric stays the same for a year or three.
 
-A team using the [[North Star Framework]] identifies a single, meaningful metric and a handful of contributing Inputs. Product teams work to influence those Inputs, which in turn drive the metric. The North Star is a leading indicator of sustainable growth and acts as a connective tissue between the product and the broader business. (amplitude.com)
+A team using the [North Star Framework]({{< ref "North Star Framework" >}}) identifies a single, meaningful metric and a handful of contributing Inputs. Product teams work to influence those Inputs, which in turn drive the metric. The North Star is a leading indicator of sustainable growth and acts as a connective tissue between the product and the broader business. (amplitude.com)
 
 ![north-star-2](https://mataroa.blog/images/aef10edf.jpeg)
 
