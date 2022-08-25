@@ -1,5 +1,5 @@
 ---
-title: Confused between North Star, OKR's and JBTD Frameworks?
+title: Differences between North Star, OKR's and JBTD Frameworks
 category:
 - Frameworks
 tags:
@@ -21,7 +21,7 @@ A “ [North Star]({{< ref "North Star" >}}) ” metric is that metric which is 
 
 A team using the [[North Star Framework]] identifies a single, meaningful metric and a handful of contributing Inputs. Product teams work to influence those Inputs, which in turn drive the metric. The North Star is a leading indicator of sustainable growth and acts as a connective tissue between the product and the broader business. (amplitude.com)
 
-> Also, read [What is the North Star Framework?]({{< ref "What is the North Star Framework?" >}})
+> Also, read [[North Star Framework]]
 
 ![north-star-2](https://mataroa.blog/images/aef10edf.jpeg)
 
