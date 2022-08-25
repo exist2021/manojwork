@@ -5,10 +5,9 @@ categories:
 date: 2022-08-25
 lastMod: 2022-08-25
 ---
-by the time you get a lag measure, you can’t fix it. It’s history.
-title:: Lag and Lead Measures
+> By the time you get a lag measure, you can’t fix it. It’s history.
 
-Lead measures are quite different in that they are the measures of the most high-impact things your team must do to reach the goal. In essence, they measure the new behaviors that will drive success on the lag measures, whether those behaviors are as simple as offering a sample to every customer in the bakery or as complex as adhering to standards in jet-engine design.
+> Lead measures are quite different in that they are the measures of the most high-impact things your team must do to reach the goal. In essence, they measure the new behaviors that will drive success on the lag measures, whether those behaviors are as simple as offering a sample to every customer in the bakery or as complex as adhering to standards in jet-engine design.
 
 via [The 4 Disciplines of Execution](http://play.google.com/books/reader?id=VprjCwAAQBAJ)
 
