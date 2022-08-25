@@ -11,7 +11,7 @@ categories:
 date: 2022-08-24
 lastMod: 2022-08-25
 ---
-I became fascinated with the “ [North Star]({{< ref "North Star" >}}) ” concept in 2017 when I saw this [Growth Hacking as per Alex Schultz, VP Analytics and CMO Meta]({{< ref "Growth Hacking as per Alex Schultz, VP Analytics and CMO Meta" >}}) video. That made me write my first medium post here. What is your North Star? I may or may not have understood the concept entirely back then.
+I became fascinated with the “ [North Star]({{< ref "North Star" >}}) ” concept in 2017 when I saw this talk on [Growth Hacking as per Alex Schultz, VP Analytics and CMO Meta]({{< ref "Growth Hacking as per Alex Schultz, VP Analytics and CMO Meta" >}}). That made me write my first medium post here. What is your North Star? I may or may not have understood the concept entirely back then.
 
 As my knowledge graph increased on various frameworks, I came across other concepts like [OKR]({{< ref "OKR" >}}) s, [Lag and Lead Measures]({{< ref "Lag and Lead Measures" >}}) , [JBTD Framework]({{< ref "JBTD Framework" >}}) , etc. However, at the time, I had no idea how to use the North Star metric in my work, nor did I have any tool which supported “North Star” metric management. During the pandemic, I discovered the doubleloop app. [Doubleloop](https://doubleloop.app/) lets you monitor all your contributing metrics, adding to your main North Star Metric.
 
