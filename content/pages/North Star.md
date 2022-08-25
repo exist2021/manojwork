@@ -5,9 +5,9 @@ categories:
 date: 2022-08-25
 lastMod: 2022-08-25
 ---
-The heart of the North Star Framework is the North Star Metric, a single critical rate, count, or ratio that represents your product strategy. This metric is a leading indicator that defines the relationship between the customer problems that the product team is trying to solve and sustainable, long-term business results.
+> The heart of the North Star Framework is the North Star Metric, a single critical rate, count, or ratio that represents your product strategy. This metric is a leading indicator that defines the relationship between the customer problems that the product team is trying to solve and sustainable, long-term business results.
 
-The North Star Metric is a leading indicator of sustainable business results and customer value. As you see it change (ideally improving!), you can expect your business results to change accordingly.
+> The North Star Metric is a leading indicator of sustainable business results and customer value. As you see it change (ideally improving!), you can expect your business results to change accordingly.
 
 > A good North Star Metric represents what customers value about your product.
 

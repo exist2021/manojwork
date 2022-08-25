@@ -13,15 +13,13 @@ lastMod: 2022-08-25
 ---
 I became fascinated with the “ [North Star]({{< ref "North Star" >}}) ” concept in 2017 when I saw this [Growth Hacking as per Alex Schultz, VP Analytics and CMO Meta]({{< ref "Growth Hacking as per Alex Schultz, VP Analytics and CMO Meta" >}}) video. That made me write my first medium post here. What is your North Star? I may or may not have understood the concept entirely back then.
 
-As my knowledge graph increased on various frameworks, I came across other concepts like [OKR]({{< ref "OKR" >}}) s, [Lag and Lead Measures]({{< ref "Lag and Lead Measures" >}}) , [[JBTD Framework]] , etc. However, at the time, I had no idea how to use the North Star metric in my work, nor did I have any tool which supported “North Star” metric management. During the pandemic, I discovered the doubleloop app. [Doubleloop](https://doubleloop.app/) lets you monitor all your contributing metrics, adding to your main North Star Metric.
+As my knowledge graph increased on various frameworks, I came across other concepts like [OKR]({{< ref "OKR" >}}) s, [Lag and Lead Measures]({{< ref "Lag and Lead Measures" >}}) , [JBTD Framework]({{< ref "JBTD Framework" >}}) , etc. However, at the time, I had no idea how to use the North Star metric in my work, nor did I have any tool which supported “North Star” metric management. During the pandemic, I discovered the doubleloop app. [Doubleloop](https://doubleloop.app/) lets you monitor all your contributing metrics, adding to your main North Star Metric.
 
 ## What is a North Star Metric?
 
 A “ [North Star]({{< ref "North Star" >}}) ” metric is that metric which is the most important lead measure you need to track as per the GOAL of your business. Unlike OKR, it is not quarterly but takes a longer-term view of things you need to do to achieve your objectives. Typically the North Star metric stays the same for a year or three.
 
 A team using the [[North Star Framework]] identifies a single, meaningful metric and a handful of contributing Inputs. Product teams work to influence those Inputs, which in turn drive the metric. The North Star is a leading indicator of sustainable growth and acts as a connective tissue between the product and the broader business. (amplitude.com)
-
-> Also, read [[North Star Framework]]
 
 ![north-star-2](https://mataroa.blog/images/aef10edf.jpeg)
 
@@ -36,6 +34,8 @@ As I said earlier, the North Star metric is not based on quarterly results. Quar
 ### Also, North Start is not a JBTD.
 
 > North Star is not JBTD as Jobs is a broad description independent of whether your existing product line can achieve or not. This is where innovation happens when you are not constrained to think on how to make your product better. ([amplitude.com](https://amplitude.com/north-star#:~:text=To%20address%20customer%20problems%20and,aligns%20with%20the%20bigger%20picture.))
+
+Read more about the [JBTD Framework]({{< ref "JBTD Framework" >}}).
 
 ## Resource
 
