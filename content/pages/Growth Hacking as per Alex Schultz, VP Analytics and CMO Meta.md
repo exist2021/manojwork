@@ -6,8 +6,12 @@ tags:
 title: Growth Hacking as per Alex Schultz, VP Analytics and CMO Meta
 categories: Marketing
 date: 2022-08-24
-lastMod: 2022-08-24
+lastMod: 2022-08-25
 ---
+These are the highlights from the talks. If you are curious about what are the most important metrics to track for growth. This talk will help you understand that.
+
+  + {{< youtube n_yHZ_vKjno >}}
+
 ## Alex mostly talks about retention rates.
 
   + He says before Facebook, companies were talking about the total number of users.
@@ -27,8 +31,6 @@ lastMod: 2022-08-24
   + Another important metric for them was to scale up Internationally as they were late to launch.
 
 > Well, that is a short summary. Watch the video below if you are into [Growth Hacking]({{< ref "Growth Hacking" >}})
-
-{{< youtube n_yHZ_vKjno >}}
 
 ![Alex Shultz](https://mataroa.blog/images/76975b7d.png)
 
