@@ -17,7 +17,7 @@ I became fascinated with the “ [North Star]({{< ref "North Star" >}}) ” conc
 
 A “ [North Star]({{< ref "North Star" >}}) ” metric is that metric which is the most important lead measure you need to track as per the GOAL of your business. Unlike [OKR]({{< ref "OKR" >}}) , it is not quarterly but takes a longer-term view of things you need to do to achieve your objectives. Typically the North Star metric stays the same for a year or three.
 
-A team using the [North Star Framework]({{< ref "North Star Framework" >}}) identifies a single, meaningful metric and a handful of contributing Inputs. Product teams work to influence those Inputs, which in turn drive the metric. The North Star is a leading indicator of sustainable growth and acts as a connective tissue between the product and the broader business. ([amplitude.com](https://amplitude.com/north-star#:~:text=To%20address%20customer%20problems%20and,aligns%20with%20the%20bigger%20picture.))
+> A team using the [North Star Framework]({{< ref "North Star Framework" >}}) identifies a single, meaningful metric and a handful of contributing Inputs. Product teams work to influence those Inputs, which in turn drive the metric. The North Star is a leading indicator of sustainable growth and acts as a connective tissue between the product and the broader business. ([amplitude.com](https://amplitude.com/north-star#:~:text=To%20address%20customer%20problems%20and,aligns%20with%20the%20bigger%20picture.))
 
 ![north-star-2](https://mataroa.blog/images/aef10edf.jpeg)
 
@@ -25,7 +25,7 @@ image credit - [Amplitude](https://amplitude.com/north-star#:~:text=To%20address
 
 ### How is North Star different from OKRs?
 
-As I said earlier, the North Star metric is not based on quarterly results. Quarterly results tracked on OKRs are possible when you know what you are chasing, and processes have been well established. For example, let us aim for 20% growth for this quarter is an OKR, but a North Star metric makes more sense when you are a new business and have no idea what you should target. 
+As I said earlier, the North Star metric is not based on quarterly results. Quarterly results tracked on OKRs are possible when you know what you are chasing, and processes have been well established. For example, let us aim for 20% growth for this quarter is an OKR, but a North Star metric makes more sense when you are a new business and have no idea what you should target.
 
 > There is a big difference between persistent models and work (or goal) related models. OKRs, for example, are a work-related model. Work-related models involve a specific time span (e.g. a quarter). The team attempts to achieve The Goal by end-of-quarter. Meanwhile, a north star metric and related inputs persist for as long as the strategy holds (often 1-3 years ). The constellation of metrics serves as a belief map, driver diagram, or causal relationship diagram. It explains our mental model for how value is created and/or preserved in our product/system. ([Schmidt, 2022](https://blog.doubleloop.app/okrs-strategy/))
 

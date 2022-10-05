@@ -4,7 +4,7 @@ title: What is your North Star?
 category:
 - GOALS
 tags:
-- North Star
+- North Star Framework
 categories:
 - GOALS
 lastMod: 2022-08-24
