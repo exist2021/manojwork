@@ -57,17 +57,19 @@ Reference
 
 {{< logseq/mark >}}In conclusion, it is essential to understand the project and evaluate whether it is complicated or {{< / logseq/mark >}}complex. 
 
-**Some Examples of Complex Systems**
+{{< logseq/mark >}}**Some Examples of Complex Systems**{{< / logseq/mark >}}
 
-{{< logseq/mark >}}- The State{{< / logseq/mark >}}
+The State
 
-{{< logseq/mark >}}- Social networks{{< / logseq/mark >}}
+{{< logseq/mark >}}Social Networks{{< / logseq/mark >}}
 
-{{< logseq/mark >}}- Business Ecosystem{{< / logseq/mark >}}
+{{< logseq/mark >}}Business Ecosystem{{< / logseq/mark >}}
 
-{{< logseq/mark >}}- Economic structures{{< / logseq/mark >}}
+{{< logseq/mark >}}Ecology of an ecosystem{{< / logseq/mark >}}
 
-{{< logseq/mark >}}- Ecology of an ecosystem{{< / logseq/mark >}}
+{{< logseq/mark >}}Economic Structures{{< / logseq/mark >}}
+
+
 
 **Some Personal examples I have found to be complex.**
 
