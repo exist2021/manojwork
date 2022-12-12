@@ -26,7 +26,9 @@ So I ask myself, where am I getting into these repeated patterns of not being ab
 
 A project has a goal. It could be getting the MVP ready or adding a few more features to it. The effort required to accomplish the same has to be calculated, and the job to achieve the exact needs to be distributed and matched to the skill or the talent you have. 
 
-#### Projects are complicated but not complex. If it is complex, you shouldn’t undertake it. 
+#### Projects are complicated but not complex. If it is complex, you shouldn’t undertake it.
+
+[Eliyahu Goldratt]({{< ref "Eliyahu Goldratt" >}}) claims that every complex system has inherent simplicity. Check out [more here](https://manoj.montaigne.io/complex-system-could-be-easy-to-manage-as-there-is-less-degree-of-freedom)
 
 **What is the difference between complicated and complex systems?**
 
