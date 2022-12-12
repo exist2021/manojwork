@@ -50,7 +50,7 @@ If you are working on a complex project, you only want to keep the system stable
 
 **Some Examples of Complex Systems**
 
-==- The State
+{{< logseq/mark >}}- The State{{< / logseq/mark >}}
 
 {{< logseq/mark >}}-Social networks{{< / logseq/mark >}}
 
