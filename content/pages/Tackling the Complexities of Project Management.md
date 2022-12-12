@@ -57,15 +57,7 @@ If you are working on a complex project, you only want to keep the system stable
 
 {{< logseq/mark >}}**Some Examples of Complex Systems**{{< / logseq/mark >}}
 
-The State
-
-{{< logseq/mark >}}Social Networks{{< / logseq/mark >}}
-
-{{< logseq/mark >}}Business Ecosystem{{< / logseq/mark >}}
-
-{{< logseq/mark >}}Ecology of an ecosystem{{< / logseq/mark >}}
-
-{{< logseq/mark >}}Economic Structures{{< / logseq/mark >}}
+{{< logseq/mark >}}The State, Social Networks, Business Ecosystem, Ecology of an ecosystem, Economic Structures{{< / logseq/mark >}}
 
 
 
