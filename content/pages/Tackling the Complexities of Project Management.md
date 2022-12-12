@@ -46,10 +46,8 @@ So, it is necessary to know if your project is complicated or complex{{< logseq/
 
 If you are working on a complex project, you only want to keep the system stable as far as possible; otherwise, you risk absolute chaos. Here is where the Cynefin framework can help. It will prompt you on how to handle such complex projects.
 
-Reference
-
-1. [Cynefin.io]({{< ref "Cynefin.io" >}})
-2. [Cynefin - Weaving Sense-Making Into the Fabric of Our World (highlights)]({{< ref "Cynefin - Weaving Sense-Making Into the Fabric of Our World (highlights)" >}})
+## Reference
+[Cynefin - Weaving Sense-Making Into the Fabric of Our World (highlights)]({{< ref "Cynefin - Weaving Sense-Making Into the Fabric of Our World (highlights)" >}})
 
 #### A brief on Cynefin Framework
 
