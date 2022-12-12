@@ -26,7 +26,7 @@ So I ask myself, where am I getting into these repeated patterns of not being ab
 
 A project has a goal. It could be getting the MVP ready or adding a few more features to it. The effort required to accomplish the same has to be calculated, and the job to achieve the exact needs to be distributed and matched to the skill or the talent you have. 
 
-> An AI assistant wrote the text {{< logseq/mark >}}Highlighted{{< / logseq/mark >}}.
+> Note - An AI assistant wrote the text {{< logseq/mark >}}Highlighted{{< / logseq/mark >}}.
 
 #### Projects are complicated but not complex. If it is complex, you shouldn’t undertake it.
 
@@ -42,7 +42,7 @@ So, it is necessary to know if your project is complicated or complex{{< logseq/
 
 #### Definition of Obliquely
 
-{{< logseq/mark >}}Obliquely means indirect or roundabout, as in not following a direct path. If a project is complex and needs to be done, it can be done{{< / logseq/mark >}},{{< logseq/mark >}} but more often than not, the results will be oblique.{{< / logseq/mark >}}
+{{< logseq/mark >}} [[Obliquity (highlights)]] means indirect or roundabout, as in not following a direct path. If a project is complex and needs to be done, it can be done{{< / logseq/mark >}},{{< logseq/mark >}} but more often than not, the results will be oblique.{{< / logseq/mark >}}
 
 If you are working on a complex project, you only want to keep the system stable as far as possible; otherwise, you risk absolute chaos. Here is where the Cynefin framework can help. It will prompt you on how to handle such complex projects.
 
@@ -67,7 +67,7 @@ If you are working on a complex project, you only want to keep the system stable
 
 **Writing Fiction -** Another example of complexity is writing fiction without an outline. Suppose you are a first-time fiction novel writer; you know exactly what I mean. This is why some authors take as much as ten years to complete a book while others can do it in three weeks flat. In this case, both the writers began the book as a project while one managed to write an entire novel in three weeks; the other took, say, four years.
 
-#### This is when projects become processes. 
+## This is when projects become processes. 
 
 In the above case, a complicated project due to a need for clarity, skill, or resource turns into a complex one. So we do not call it a project. We call it an area or a process. A process needs to be perfected till you are good enough to execute it as a project.  
 
