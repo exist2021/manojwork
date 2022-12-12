@@ -42,7 +42,7 @@ So, it is necessary to know if your project is complicated or complex{{< logseq/
 
 #### Definition of Obliquely
 
-{{< logseq/mark >}} [[Obliquity (highlights)]] means indirect or roundabout, as in not following a direct path. If a project is complex and needs to be done, it can be done{{< / logseq/mark >}},{{< logseq/mark >}} but more often than not, the results will be oblique.{{< / logseq/mark >}}
+{{< logseq/mark >}} [Obliquity (highlights)]({{< ref "Obliquity (highlights)" >}}) means indirect or roundabout, as in not following a direct path. If a project is complex and needs to be done, it can be done{{< / logseq/mark >}},{{< logseq/mark >}} but more often than not, the results will be oblique.{{< / logseq/mark >}}
 
 If you are working on a complex project, you only want to keep the system stable as far as possible; otherwise, you risk absolute chaos. Here is where the Cynefin framework can help. It will prompt you on how to handle such complex projects.
 
