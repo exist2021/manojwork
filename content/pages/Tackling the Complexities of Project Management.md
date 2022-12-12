@@ -46,12 +46,9 @@ So, it is necessary to know if your project is complicated or complex{{< logseq/
 
 If you are working on a complex project, you only want to keep the system stable as far as possible; otherwise, you risk absolute chaos. Here is where the Cynefin framework can help. It will prompt you on how to handle such complex projects.
 
-## Reference
-[Cynefin - Weaving Sense-Making Into the Fabric of Our World (highlights)]({{< ref "Cynefin - Weaving Sense-Making Into the Fabric of Our World (highlights)" >}})
-
 #### A brief on Cynefin Framework
 
-{{< logseq/mark >}}This framework is based on the principles of chaos theory. It talks about four domains – obvious, complex, chaotic, and disordered. Accordingly, actions are required to be taken for each domain.{{< / logseq/mark >}}
+{{< logseq/mark >}}This framework is based on the principles of chaos theory. It talks about four domains – obvious, complex, chaotic, and disordered. Accordingly, actions are required to be taken for each domain.{{< / logseq/mark >}} Read more [Cynefin - Weaving Sense-Making Into the Fabric of Our World (highlights)]({{< ref "Cynefin - Weaving Sense-Making Into the Fabric of Our World (highlights)" >}}) 
 
 {{< logseq/mark >}}In conclusion, it is essential to understand the project and evaluate whether it is complicated or {{< / logseq/mark >}}complex. 
 
