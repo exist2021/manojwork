@@ -4,7 +4,7 @@ title: Tackling the Complexities of Project Management
 tags:
 categories: Project Management
 date: 2022-12-12
-lastMod: 2022-12-12
+lastMod: 2022-12-13
 ---
 Often I have so many ideas in my head that I have to write them down for fear that they may get lost in the whirlwind brewing inside my head. I get tempted to convert some of these ideas into projects. If these ideas are marketable, I give them a swing. I then go about and set up these projects. I outline the strategy and plan for the same. 
 
@@ -48,13 +48,14 @@ If you are working on a complex project, you only want to keep the system stable
 
 #### A brief on Cynefin Framework
 
-{{< logseq/mark >}}This framework is based on the principles of chaos theory. It talks about four domains – obvious, complex, chaotic, and disordered. Accordingly, actions are required to be taken for each domain.{{< / logseq/mark >}} Read more [Cynefin - Weaving Sense-Making Into the Fabric of Our World (highlights)]({{< ref "Cynefin - Weaving Sense-Making Into the Fabric of Our World (highlights)" >}}) 
+{{< logseq/mark >}}This framework is based on the principles of chaos theory. It talks about four domains – obvious, complex, chaotic, and disordered. Accordingly, actions are required to be taken for each domain.{{< / logseq/mark >}} 
+Read more [Cynefin - Weaving Sense-Making Into the Fabric of Our World (highlights)]({{< ref "Cynefin - Weaving Sense-Making Into the Fabric of Our World (highlights)" >}}) 
 
 {{< logseq/mark >}}In conclusion, it is essential to understand the project and evaluate whether it is complicated or {{< / logseq/mark >}}complex. 
 
 {{< logseq/mark >}}**Some Examples of Complex Systems**{{< / logseq/mark >}}
 
-{{< logseq/mark >}}The State, Social Networks, Business Ecosystem, Ecology of an ecosystem, Economic Structures{{< / logseq/mark >}}
+The State, {{< logseq/mark >}}Social Networks, Business Ecosystem, Ecology of an ecosystem, Economic Structures{{< / logseq/mark >}}
 
 
 
