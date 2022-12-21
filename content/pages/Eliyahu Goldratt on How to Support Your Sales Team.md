@@ -10,7 +10,7 @@ categories:
 date: 2022-12-21
 lastMod: 2022-12-21
 ---
-{{video https://www.youtube.com/watch?v=MIdfILu2m18&feature=emb_imp_woyt}}
+{{< youtube MIdfILu2m18 >}}
 
 # Highlights of this video
 
