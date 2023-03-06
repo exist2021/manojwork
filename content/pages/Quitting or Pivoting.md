@@ -9,6 +9,10 @@ categories:
 date: 2023-03-06
 lastMod: 2023-03-06
 ---
+I just pivoted. In start-up lingo, it means that you change your business model to match the resources you have. 
+
+> Pivoting politely says you have failed and run out of ideas, money or men.
+
 ## The consequences of not quitting or pivoting
 Last time I got involved with a hyperlocal project lasting over a decade. I refused to give up! I steadfastly held on to my belief system that society starts outside your doorstep, and that is your neighbourhood. After a friendly pat on the back, I gave it up. I sold my business, and the new owners are doing a good job, much better than I had managed. I didn't have the skills and the resources to run them. But it took me way too long to quit the business.
 
