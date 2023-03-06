@@ -3,7 +3,7 @@ category:
 - Knowing when to Quit
 tags:
 - pivoting
-title: Start at the top and work your way down
+title: Quitting or Pivoting
 categories:
 - Knowing when to Quit
 date: 2023-03-06
