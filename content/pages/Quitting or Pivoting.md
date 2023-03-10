@@ -22,11 +22,11 @@ I was stuck with my hyperlocal business. Money was so little that I had to take 
 
 > This time, I am pivoting faster. 
 
-## This year, I launched Slowdating.online 
+## This year, I launched [Slowdating Venture](Slowdating.online) 
 I had burnt myself in my hyperlocal project by going for a very small market; this time, I didn't want to take chances. I launched a site targeting a global audience. I got registrations from New York, Budapest, Peru and, of course, Indian cities. But the numbers are not enough. A dating business needs numbers and density. I have neither of them. 
 
-So I have pivoted; instead of moving vertically up the value chain, I am going down the chain. I want to see where my solo skills match the business I need to run with only my time. I have launched datingcoach.directory and datingcoach.site.
+So I have pivoted; instead of moving vertically up the value chain, I am going down the chain. I want to see where my solo skills match the business I need to run with only my time. I have launched [Dating Coach Directory](datingcoach.directory) and [Dating Coach](datingcoach.site.)
 
 The business model is less complex here; it doesn't need people, marketing budgets, or expensive technical stuff. My options for getting revenue are much better. As I become proficient in these areas, I plan to move upwards. 
 
-> I am writing this blog post to urge people to think when they need to pivot (quit) their existing projects and work on something the market is willing to pay. 
+> I am writing this blog post to urge people to think when they need to pivot (quit) their existing projects and work on something the market is willing to pay.
