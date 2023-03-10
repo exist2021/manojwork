@@ -8,8 +8,8 @@ category:
 tags:
 categories:
 - books
-date: 2022-10-31
-lastMod: 2022-10-31
+date: 2023-03-10
+lastMod: 2023-03-10
 ---
 ![](https://m.media-amazon.com/images/i/81id0uidthl._sy160.jpg)
 

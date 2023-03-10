@@ -7,7 +7,7 @@ tags:
 title: New Side Project - A website in 24 hours
 categories:
 - side project
-lastMod: 2022-08-23
+lastMod: 2023-03-10
 ---
 So website building is no longer the complex process it used to be. Unless you want to spend [46K USD](https://mtlynch.io/tinypilot-redesign/) building it. Most mortals don't have this kind of budget. So here is where [no code]({{< ref "no code" >}}) and [AI to Build websites - Bookmark]({{< ref "AI to Build websites - Bookmark" >}}) comes in.
 

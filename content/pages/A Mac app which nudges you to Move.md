@@ -5,8 +5,8 @@ title: A Mac app which nudges you to Move
 tags:
 categories:
 - Work
-date: 2022-08-22
-lastMod: 2022-08-23
+date: 2023-03-10
+lastMod: 2023-03-10
 ---
 In Feb this year. I had sprained my neck cause I sat on my Mac for 15 hours a day continuously for two straight weeks. The pain was so severe that I just couldn't sleep for a week and I was forced to take two weeks off from work. My neck was so strained that it hurt a lot when I lifted my head to look at the screen. It felt like someone was pushing my neck down and twisting my left arm. Yes, the three kinds of nerves which run through your neck go along your arm. As the nerves in your neck get choked, the pain shoots down towards your arms and even wrists.
 

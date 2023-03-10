@@ -2,8 +2,8 @@
 title: MAU
 tags:
 categories:
-date: 2022-08-24
-lastMod: 2022-08-24
+date: 2023-03-10
+lastMod: 2023-03-10
 ---
 Monthly active users (MAU) is a [key performance indicator (KPI)](https://www.investopedia.com/terms/k/kpi.asp) used by social networking and other companies to count the number of unique users who visit a site within the past month. Websites generally recognize monthly active users via an identification number, email address, or username.
 

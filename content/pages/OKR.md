@@ -2,8 +2,8 @@
 title: OKR
 tags:
 categories:
-date: 2022-08-25
-lastMod: 2022-08-25
+date: 2023-03-10
+lastMod: 2023-03-10
 ---
 > Short for Objectives and Key Results. It is a collaborative goal-setting protocol for companies, teams, and individuals.
 

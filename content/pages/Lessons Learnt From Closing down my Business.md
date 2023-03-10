@@ -9,7 +9,7 @@ tags:
 title: Lessons Learnt From Closing down my Business
 categories:
 - Work
-lastMod: 2022-08-24
+lastMod: 2023-03-10
 ---
 Sometimes nothing happens for decades and then decades happen within weeks.
 

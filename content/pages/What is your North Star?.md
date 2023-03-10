@@ -7,7 +7,7 @@ tags:
 - North Star Framework
 categories:
 - GOALS
-lastMod: 2022-08-24
+lastMod: 2023-03-10
 ---
 I saw a [video](https://www.youtube.com/watch?v=n_yHZ_vKjno&index=6&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1) of [Alex Schultz](https://www.linkedin.com/in/alexorig/) who heads growth and analytics for Facebook talk about metrics and growth. He uses the analogy of a North Star. The founder of the startup steers the ship and should know the directions.
 

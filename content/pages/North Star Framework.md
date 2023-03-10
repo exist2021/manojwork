@@ -2,8 +2,8 @@
 title: North Star Framework
 tags:
 categories:
-date: 2022-08-25
-lastMod: 2022-08-25
+date: 2023-03-10
+lastMod: 2023-03-10
 ---
 > In the early 2010s, Sean Ellis and the growth hacking movement helped popularize the structure of the North Star.
 title:: What is the North Star Metric?

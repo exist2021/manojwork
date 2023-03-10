@@ -1,9 +1,9 @@
 ---
-title: North Star
+title: north star
 tags:
 categories:
-date: 2022-08-25
-lastMod: 2022-08-25
+date: 2023-03-10
+lastMod: 2023-03-10
 ---
 > The heart of the North Star Framework is the North Star Metric, a single critical rate, count, or ratio that represents your product strategy. This metric is a leading indicator that defines the relationship between the customer problems that the product team is trying to solve and sustainable, long-term business results.
 

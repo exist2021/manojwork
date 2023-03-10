@@ -7,8 +7,8 @@ tags:
 title: Difference Between a Project Roadmap and a Project Plan
 categories:
 - Literature Notes
-date: 2022-10-05
-lastMod: 2022-10-05
+date: 2023-03-10
+lastMod: 2023-03-10
 ---
 Roadmaps are overviews while plans are detailed. Plans include the project's Who, How, When and so on.
 
@@ -44,11 +44,11 @@ Deliverables might include designs, reports, reviews, and final products. This i
 
 Break down each project milestone into smaller, individual deliverables.
 
-Identify which deliverables are non-negotiable priorities vs tasks that could be deprioritized if a blocker arises. 
+Identify which deliverables are non-negotiable priorities vs tasks that could be deprioritized if a blocker arises.
 
-Establish due dates for when each deliverable should be completed to stay on track with your set milestones. 
+Establish due dates for when each deliverable should be completed to stay on track with your set milestones.
 
-Note which deliverables are going to be internal vs externally completed. 
+Note which deliverables are going to be internal vs externally completed.
 
 Create a plan for how individual contributors will be assigned independent task work and how dependencies will be managed to hit goals on time.
 

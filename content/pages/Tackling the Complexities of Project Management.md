@@ -3,10 +3,10 @@ category: Project Management
 title: Tackling the Complexities of Project Management
 tags:
 categories: Project Management
-date: 2022-12-12
-lastMod: 2022-12-13
+date: 2023-03-10
+lastMod: 2023-03-10
 ---
-Often I have so many ideas in my head that I have to write them down for fear that they may get lost in the whirlwind brewing inside my head. I get tempted to convert some of these ideas into projects. If these ideas are marketable, I give them a swing. I then go about and set up these projects. I outline the strategy and plan for the same. 
+Often I have so many ideas in my head that I have to write them down for fear that they may get lost in the whirlwind brewing inside my head. I get tempted to convert some of these ideas into projects. If these ideas are marketable, I give them a swing. I then go about and set up these projects. I outline the strategy and plan for the same.
 
 ## I lose steam or motivation midway.
 
@@ -14,17 +14,17 @@ After a few weeks, when I have the project about 25% complete, I get distracted 
 
 The feeling of giving up on these projects leads to low morale and depression. I mean, for heaven’s sake, what was I thinking? What got me excited? Why did I put in the initial efforts towards the same? All those self-negating thoughts crisscross my mind, and finally, I find some escapism route by blaming a third party for it. 
 
-So I ask myself, where am I getting into these repeated patterns of not being able to execute my projects? 
+So I ask myself, where am I getting into these repeated patterns of not being able to execute my projects?
 
 ### A Project needs two criteria to be met. 
 
 1. A start and finish time
 
-2. Resources 
+2. Resources
 
 #### Why do you need a start and finish time?
 
-A project has a goal. It could be getting the MVP ready or adding a few more features to it. The effort required to accomplish the same has to be calculated, and the job to achieve the exact needs to be distributed and matched to the skill or the talent you have. 
+A project has a goal. It could be getting the MVP ready or adding a few more features to it. The effort required to accomplish the same has to be calculated, and the job to achieve the exact needs to be distributed and matched to the skill or the talent you have.
 
 > Note - An AI assistant wrote the text {{< logseq/mark >}}Highlighted{{< / logseq/mark >}}.
 
