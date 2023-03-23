@@ -6,7 +6,7 @@ theme: "PaperMod"
 params:
     homeInfoParams:
         Title: Manoj Nayak's Desk 🖥️ 
-        Content: Productivity, Apps, Strategy, Workflows & Systems
+        Content: Always work on an empty stomach.
 
     socialIcons: # optional
         - name: "github"
