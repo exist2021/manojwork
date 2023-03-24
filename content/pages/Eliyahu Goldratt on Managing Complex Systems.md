@@ -4,7 +4,7 @@ category:
 tags:
 - Eliyahu Goldratt
 - TOC
-title: Managing Complex Systems: Less Freedom, Easier Task
+title: Eliyahu Goldratt on Managing Complex Systems
 categories:
 - systems
 date: 2023-03-10
