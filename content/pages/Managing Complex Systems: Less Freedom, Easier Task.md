@@ -4,7 +4,7 @@ category:
 tags:
 - Eliyahu Goldratt
 - TOC
-title: Complex System Could be Easy to Manage as there is less degree of Freedom
+title: Managing Complex Systems: Less Freedom, Easier Task
 categories:
 - systems
 date: 2023-03-10
