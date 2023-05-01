@@ -6,8 +6,8 @@ tags:
 title: Create Systems, not Tasks
 categories:
 - systems
-date: 2023-03-16
-lastMod: 2023-03-16
+date: 2023-04-21
+lastMod: 2023-04-21
 ---
 If you write down tasks, you know it leads to a never-ending list of to-dos. You eventually become overwhelmed and leave whatever application you used to record it. We generally need to pay more attention to our actual work hours. We need to take food breaks, gym breaks and loo breaks, and the bug breaks like sickness and relationship issues take another major chink of our time.
 
@@ -26,5 +26,3 @@ Digital apps accomplish the storage also, or you can keep them separate. I curre
 Once you have a system in place, it is easier to measure work. You can set a timer for each component of the systemic work. Every system either makes you better at your work or takes you closer to your goals and objectives. Tasks-based work will turn your life chaotic, and you will need to know where your work is leading you.
 
 ### Tags
-
-

@@ -2,8 +2,8 @@
 title: Growth Hacking
 tags:
 categories:
-date: 2023-03-10
-lastMod: 2023-03-10
+date: 2023-04-21
+lastMod: 2023-04-21
 ---
 Growth hacking (also known as 'growth marketing') is the use of resource-light and cost-effective digital marketing tactics to help grow and retain an active user base, sell products and gain exposure. Think ‘hacking’ in terms of life hacks – those little shortcuts that make your life easier – rather than nasty bits of code that can ruin your computer and your life.
 

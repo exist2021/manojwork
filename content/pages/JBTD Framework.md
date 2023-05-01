@@ -2,8 +2,8 @@
 title: JBTD Framework
 tags:
 categories:
-date: 2023-03-10
-lastMod: 2023-03-10
+date: 2023-04-21
+lastMod: 2023-04-21
 ---
 > Jobs Theory provides a framework for categorizing, defining, capturing and organizing the inputs that are required to make innovation predictable. Via - [Jobs-to-be-Done: A Framework for Customer Needs | by Tony Ulwick | JTBD + Outcome-Driven Innovation](https://jobs-to-be-done.com/jobs-to-be-done-a-framework-for-customer-needs-c883cbf61c90)
 

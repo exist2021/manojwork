@@ -5,8 +5,8 @@ tags:
 - meta
 title: Growth Hacking as per Alex Schultz, VP Analytics and CMO Meta
 categories: Marketing
-date: 2023-03-10
-lastMod: 2023-03-10
+date: 2023-04-21
+lastMod: 2023-04-21
 ---
 These are the highlights from the talks. If you are curious about what are the most important metrics to track for growth. This talk will help you understand that.
 

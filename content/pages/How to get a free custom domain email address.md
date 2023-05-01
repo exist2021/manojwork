@@ -7,8 +7,8 @@ tags:
 title: How to get a free custom domain email address
 categories:
 - Productivity
-date: 2023-03-10
-lastMod: 2023-03-10
+date: 2023-04-21
+lastMod: 2023-04-21
 ---
 Are you paying for an email address? Are you a small business or a freelancer? Do you keep buying new domains and need emails for them? If your answer is YES, then you should read further.
 

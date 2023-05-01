@@ -9,8 +9,8 @@ tags:
 title: Don't look at your bank balance everyday
 categories:
 - Financial Advise
-date: 2023-03-10
-lastMod: 2023-03-10
+date: 2023-04-21
+lastMod: 2023-04-21
 ---
 It is a bit sad if you have to look at your bank balances every day because you feel some incoming cheque will bounce, or you won't be able to manage your budget.  However, this cannot be a long-term strategy and will lead to burnout with the stress and adrenaline you need daily. Also, this anxiety of maintaining the bank balances is not doing any good to your cause of increasing your income or reducing your expenses.
 

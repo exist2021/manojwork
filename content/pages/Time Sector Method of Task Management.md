@@ -5,8 +5,8 @@ title: Time Sector Method of Task Management
 tags:
 categories:
 - productivity
-date: 2023-03-13
-lastMod: 2023-03-13
+date: 2023-04-21
+lastMod: 2023-04-21
 ---
 Recently I came across [a tweet](https://twitter.com/martineguernsey/status/1628385406264778753?s=61&t=bC1z5IwoOPNVwZJpM8MGTg) from Martine Guernsey that she will apply the Time Sector Method for Task management developed by [Carl Pullien](https://www.carlpullein.com/). I was immediately drawn to the idea, and finally, I felt someone had articulated what I had been unable to - that context-based task managers were not working for me and perhaps a lot of other people.
 

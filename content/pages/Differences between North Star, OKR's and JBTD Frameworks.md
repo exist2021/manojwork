@@ -8,8 +8,8 @@ tags:
 - Lag and Lead Measures
 categories:
 - Frameworks
-date: 2023-03-10
-lastMod: 2023-03-10
+date: 2023-04-21
+lastMod: 2023-04-21
 ---
 I became fascinated with the “ [North Star]({{< ref "North Star" >}}) ” concept in 2017 when I saw this talk on [Growth Hacking as per Alex Schultz, VP Analytics and CMO Meta]({{< ref "Growth Hacking as per Alex Schultz, VP Analytics and CMO Meta" >}}). As my knowledge graph increased on various frameworks, I came across other concepts like [OKR]({{< ref "OKR" >}}) s, [Lag and Lead Measures]({{< ref "Lag and Lead Measures" >}}) , [JBTD Framework]({{< ref "JBTD Framework" >}}) , etc. However, at the time, I had no idea how to use the North Star metric in my work, nor did I have any tool which supported “North Star” metric management. During the pandemic, I discovered the doubleloop app. [Doubleloop](https://doubleloop.app/) lets you monitor all your contributing metrics, adding to your main North Star Metric.
 

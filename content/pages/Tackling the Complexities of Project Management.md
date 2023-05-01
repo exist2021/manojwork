@@ -3,8 +3,8 @@ category: Project Management
 title: Tackling the Complexities of Project Management
 tags:
 categories: Project Management
-date: 2023-03-10
-lastMod: 2023-03-10
+date: 2023-04-21
+lastMod: 2023-04-21
 ---
 Often I have so many ideas in my head that I have to write them down for fear that they may get lost in the whirlwind brewing inside my head. I get tempted to convert some of these ideas into projects. If these ideas are marketable, I give them a swing. I then go about and set up these projects. I outline the strategy and plan for the same.
 

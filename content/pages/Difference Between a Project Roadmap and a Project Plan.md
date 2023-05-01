@@ -7,8 +7,8 @@ tags:
 title: Difference Between a Project Roadmap and a Project Plan
 categories:
 - Literature Notes
-date: 2023-03-10
-lastMod: 2023-03-10
+date: 2023-04-21
+lastMod: 2023-04-21
 ---
 Roadmaps are overviews while plans are detailed. Plans include the project's Who, How, When and so on.
 

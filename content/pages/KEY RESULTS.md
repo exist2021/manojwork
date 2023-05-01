@@ -2,8 +2,8 @@
 title: KEY RESULTS
 tags:
 categories:
-date: 2023-03-10
-lastMod: 2023-03-10
+date: 2023-04-21
+lastMod: 2023-04-21
 ---
 KEY RESULTS benchmark and monitor HOW we get to the objective. Effective KRs are specific and time-bound, aggressive yet realistic. Most of all, they are measurable and verifiable. (As prize pupil Marissa Mayer would say, “It’s not a key result unless it has a number.”
 

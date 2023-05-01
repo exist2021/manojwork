@@ -2,8 +2,8 @@
 title: Lag and Lead Measures
 tags:
 categories:
-date: 2023-03-10
-lastMod: 2023-03-10
+date: 2023-04-21
+lastMod: 2023-04-21
 ---
 > By the time you get a lag measure, you can’t fix it. It’s history.
 

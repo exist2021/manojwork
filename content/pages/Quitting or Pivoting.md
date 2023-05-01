@@ -6,8 +6,8 @@ tags:
 title: Quitting or Pivoting
 categories:
 - Knowing when to Quit
-date: 2023-03-10
-lastMod: 2023-03-10
+date: 2023-04-21
+lastMod: 2023-04-21
 ---
 I just pivoted. In start-up lingo, it means that you change your business model to match the resources you have. 
 

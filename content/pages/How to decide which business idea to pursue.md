@@ -8,7 +8,7 @@ tags:
 title: How to decide which business idea to pursue
 categories:
 - Business Plans
-lastMod: 2023-03-10
+lastMod: 2023-04-21
 ---
 Many times we are bubbling with business ideas, but we are not sure which one to prioritise. If we end up prioritising the wrong idea then we end up giving that baby our 5/10 years of our lives. They say 99% of small businesses fail. But some might never fail and just keep you poor for the rest of your life. **Yes, I am talking out of the experience.**
 
