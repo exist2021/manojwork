@@ -12,7 +12,7 @@ categories:
 date: 2023-05-01
 lastMod: 2023-05-01
 ---
-You will probably end up breaking your back than becoming rich and working your ass off.
+You will probably end up breaking your back than becoming rich by working your ass off.
 
 ## Here is what will make you rich
 
