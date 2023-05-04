@@ -40,3 +40,11 @@ Highlights first synced by [[Readwise]] [[May 1st, 2023]]
   + Stocks generally change slowly, even when the flows into or out of them change suddenly. Therefore, stocks act as delays or buffers or shock absorbers in systems. ([Location 506](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=506))
 
   + Systems thinkers see the world as a collection of stocks along with the mechanisms for regulating the levels in the stocks by manipulating flows. That means system thinkers see the world as a collection of “feedback processes.” ([Location 543](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=543))
+
+New highlights added [[May 4th, 2023]] at 10:36 AM
+
+  + The time it takes for an exponentially growing stock to double in size, the “doubling time,” equals approximately 70 divided by the growth rate (expressed as a percentage). Example: If you put $100 in the bank at 7% interest per year, you will double your money in 10 years (70 ÷ 7 = 10). ([Location 683](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=683))
+
+  + Watch out! If you see feedback loops everywhere, you’re already in danger of becoming a systems thinker! ([Location 687](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=687))
+
+  + When someone tells you that population growth causes poverty, you’ll ask yourself how poverty may cause population growth. ([Location 691](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=691))
