@@ -10,7 +10,7 @@ categories:
 date: 2023-06-08
 lastMod: 2023-06-08
 ---
-Sheela Reddy's book, "[Mr and Mrs Jinnah](https://www.amazon.com/Mr-Mrs-Jinnah-Sheela-Reddy/dp/0670093323)," offers an insightful look into the controversial marriage between Ruttie and Jinnah. The author delves deep into the personal lives of these two historical figures, exploring their relationships with each other and those around them.
+Sheela Reddy's book, "[Mr and Mrs Jinnah](https://www.amazon.com/Mr-Mrs-Jinnah-Sheela-Reddy/dp/0670093323)," offers an insightful look into the controversial marriage between Ruttie Petit (daughter of one of the wealthiest man of India)and Jinnah. The author delves deep into their personal lives, exploring their relationships with each other and those around them.
 
 The story begins when Jinnah asks Ruttie's father for her hand in marriage. At just 14 years old, Ruttie was far too young to marry according to societal norms, causing tension with her father. Despite this, they were in love, which ultimately led to their union four years later when Ruttie turned 18.
 
