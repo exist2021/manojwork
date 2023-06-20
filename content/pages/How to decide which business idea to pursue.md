@@ -8,7 +8,7 @@ tags:
 title: How to decide which business idea to pursue
 categories:
 - Business Plans
-lastMod: 2023-04-21
+lastMod: 2023-06-14
 ---
 Many times we are bubbling with business ideas, but we are not sure which one to prioritise. If we end up prioritising the wrong idea then we end up giving that baby our 5/10 years of our lives. They say 99% of small businesses fail. But some might never fail and just keep you poor for the rest of your life. **Yes, I am talking out of the experience.**
 
@@ -40,7 +40,9 @@ U = Usefulness to one person
 
 C = Comparable item in usefulness & cost
 
-P = Number of people this item would be used by/affectX = (U — C) * P
+P = Number of people this item would be used by/affect
+
+X = (U — C) * P
 
 Source [Reddit](https://www.reddit.com/r/elonmusk/comments/5bu1rq/what_does_elon_musk_mean_when_he_said_what_would/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
