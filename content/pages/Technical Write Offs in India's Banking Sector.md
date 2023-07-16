@@ -22,7 +22,7 @@ In India, technical write-offs have reached a staggering total of nearly one tri
 
 Both public and private banks engage in loan write-offs, with public sector banks accounting for 75% of such actions[5]. Many of these write-offs fall under the category of technical write-offs, where recovery prospects are low. In fact, only 15% of NPAs are deemed recoverable[5].
 
-Another disturbing trend is the rise in wilful defaulters who deliberately obtain loans without providing collateral. These individuals have managed to secure loans amounting to nearly eight thousand crores, further straining the already burdened banking system[2].
+Another disturbing trend is the rise in wilful defaulters who deliberately obtain loans without providing collateral. For example, Just Geetanjali group has will fully defaulted to the tune of nearly eight thousand crores. These entities have managed to secure loans further straining the already burdened banking system[2].
 
 ## Transparency and Accountability
 
