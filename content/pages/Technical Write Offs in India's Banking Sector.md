@@ -4,7 +4,7 @@ category:
 tags:
 - modi
 - loans
-title: Technical Write-Offs in India's Banking Sector
+title: Technical Write Offs in India's Banking Sector
 categories:
 - Indian Banking
 date: 2023-07-16
