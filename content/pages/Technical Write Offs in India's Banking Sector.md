@@ -22,7 +22,7 @@ In India, technical write-offs have reached a staggering total of nearly one tri
 
 Both public and private banks engage in loan write-offs, with public sector banks accounting for 75% of such actions[5]. Many of these write-offs fall under the category of technical write-offs, where recovery prospects are low. In fact, only 15% of NPAs are deemed recoverable[5].
 
-Another disturbing trend is the rise in wilful defaulters who deliberately obtain loans without providing collateral. These individuals have managed to secure loans amounting to nearly eight thousand crores, further straining the already burdened banking system[2].
+Another disturbing trend is the rise in wilful defaulters who deliberately obtain loans without providing collateral. For example, Just Geetanjali group has will fully defaulted to the tune of nearly eight thousand crores. These entities have managed to secure loans further straining the already burdened banking system[2].
 
 ## Transparency and Accountability
 
@@ -70,14 +70,9 @@ Overall, technical debt is an important concept in the banking sector as it high
 
 ## Citations:
 
-[1] https://www.rbi.org.in/commonperson/English/Scripts/FAQs.aspx?Id=3459
-
-[2] https://www.policycircle.org/governance/indian-banks-and-wilful-defaulters/
-
-[3] https://www.gisreportsonline.com/r/indias-banking-sector-rises/
-
-[4] https://www.moneylife.in/article/12-top-nationalised-banks-wrote-off-rs632-lakh-crore-in-8-years-recovered-just-7-percentage-of-write-off-debt-from-big-defaulters/62219.html
-
-[5] https://pinkerton.com/media/our-insights/whitepapers/sources/restrainingwilfuldefaults-npapaper-2017.pdf
-
-[6] https://www.oecd.org/daf/ca/corporategovernanceprinciples/20218724.pdf
+1. https://www.rbi.org.in/commonperson/English/Scripts/FAQs.aspx?Id=3459
+2. https://www.policycircle.org/governance/indian-banks-and-wilful-defaulters/
+3. https://www.gisreportsonline.com/r/indias-banking-sector-rises/
+4. https://www.moneylife.in/article/12-top-nationalised-banks-wrote-off-rs632-lakh-crore-in-8-years-recovered-just-7-percentage-of-write-off-debt-from-big-defaulters/62219.html
+5. https://pinkerton.com/media/our-insights/whitepapers/sources/restrainingwilfuldefaults-npapaper-2017.pdf
+6. https://www.oecd.org/daf/ca/corporategovernanceprinciples/20218724.pdf
