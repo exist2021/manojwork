@@ -12,7 +12,7 @@ params:
         - name: "github"
           url: "https://github.com/exist2021"
         - name: "linkedin"
-          url: "https://www.linkedin.com/in/manojrnayak/"
+          url: "www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=manojrnayak"
         - name: "twitter"
           url: "https://twitter.com/manojnayak"
         - name: "kofi" 
